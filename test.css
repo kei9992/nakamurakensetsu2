@@ -780,6 +780,25 @@ list-style: none;
 	-ms-transition: .3s;
 	transition: .3s;
 	} 
+	
+	
+	.title img{
+		position: absolute;
+		width: 20%;
+		height: 99%;}
+
+	.tile6{
+		margin-top: -300px;
+		padding: 1%;
+	}	
+	.tile3{
+		margin-top: -10px;
+		padding: 1%;
+	}	
+	.tile5{
+		margin-top: -300px;
+		padding: 1%;
+	}	
 	/*　画面サイズが940px以下の場合ここの記述が適用される　*/
  
 }
